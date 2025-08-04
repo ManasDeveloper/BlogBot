@@ -1,4 +1,4 @@
-# 🤖 AI Blog Generator
+# 🤖 Blogbot : AI Blog Generator
 
 An intelligent blog generation system with automated research, human-reviewed outlines, and AI-powered content creation. Built with LangGraph workflows, Groq LLM, Tavily search, and Streamlit UI.
 
